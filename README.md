@@ -44,7 +44,7 @@ Consul 在实现服务注册与发现和健康检查方面具有以下优点：
 
 ## 需要考虑问题
 1 网络分区如何处理
-  ```
+  ```golang
   package main
 
 import (
